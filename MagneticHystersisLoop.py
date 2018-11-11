@@ -1,7 +1,6 @@
 import os
 import sys
 import matplotlib.pyplot as plt
-import numpy as np
 
 data_folder = sys.argv[1:]
 data_folder = data_folder[0]
